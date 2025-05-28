@@ -43,5 +43,4 @@ Portfolio returns are aggregated using log-loss formulation.
 - Binomial test for VaR violation frequency
 - Evaluation of predictive coverage at 95% and 99% confidence levels
 
-## 📁 Project Structure
 
